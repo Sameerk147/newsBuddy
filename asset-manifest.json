@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sameerk147/newsBuddy.git/static/css/main.5b5d1b20.css",
-    "main.js": "/Sameerk147/newsBuddy.git/static/js/main.744d1c66.js",
-    "index.html": "/Sameerk147/newsBuddy.git/index.html",
-    "main.5b5d1b20.css.map": "/Sameerk147/newsBuddy.git/static/css/main.5b5d1b20.css.map",
-    "main.744d1c66.js.map": "/Sameerk147/newsBuddy.git/static/js/main.744d1c66.js.map"
+    "main.css": "/Sameerk147/newsBuddy/static/css/main.5b5d1b20.css",
+    "main.js": "/Sameerk147/newsBuddy/static/js/main.744d1c66.js",
+    "index.html": "/Sameerk147/newsBuddy/index.html",
+    "main.5b5d1b20.css.map": "/Sameerk147/newsBuddy/static/css/main.5b5d1b20.css.map",
+    "main.744d1c66.js.map": "/Sameerk147/newsBuddy/static/js/main.744d1c66.js.map"
   },
   "entrypoints": [
     "static/css/main.5b5d1b20.css",
